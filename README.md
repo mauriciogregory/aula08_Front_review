@@ -1,2 +1,2 @@
 # aula08_Front_review
-Simple single page
+A simple single-page website to practice some lessons.
